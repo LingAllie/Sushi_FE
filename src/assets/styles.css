@@ -1,0 +1,557 @@
+:where(.css-dev-only-do-not-override-djtmh8).ant-input-number .ant-input-number-handler-wrap{
+     display: none;
+}
+.save-button{
+     margin-right: 30px;
+}
+span.anticon.anticon-down{
+     margin-left: 10px;
+}
+.ant-modal.model-forRe .ant-modal-header{
+     margin-bottom: 30px;
+}
+.cancel-button{
+     margin-left: 10px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-layout .ant-layout-sider{
+     background: #FBF9F5;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-dark{
+     background: #FBF9F5;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-layout-header{
+     background: #FBF9F5;
+}
+.ant-menu-title-content{
+     color: black;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-dark .ant-menu-item-selected{
+     background-color: #d1d7e0;
+}
+header.ant-layout-header.site-layout-sub-header-background.css-dev-only-do-not-override-djtmh8{
+     height: 152px;
+     display: flex;
+     justify-content: center;
+     margin-bottom: 30px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-layout{
+     background: #dcdcdc;
+}
+li.ant-menu-item.ant-menu-item-only-child{
+     padding: 0 30px !important;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-inline.ant-menu-root .ant-menu-item{
+     justify-content: flex-start;
+}
+.listfood{
+     display: flex;
+     column-gap: 45px;
+     /* gap: 35px; */
+     row-gap: 35px;
+     flex-wrap: wrap;
+     padding: 0 40px;
+     align-items: center;
+     justify-content: start;
+}
+.shopping-cart svg{
+     width: 40px;
+     height: 40px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-layout-footer{
+     padding: 10px 50px;
+}
+.ant-spin.ant-spin-spinning.css-dev-only-do-not-override-djtmh8{
+     position: absolute;
+     bottom: 50%;
+     left: 56%;
+     transform: translate(-50%, -50%);
+}
+
+:where(.css-dev-only-do-not-override-djtmh8).ant-card .ant-card-meta-title{
+     white-space: normal;
+     font-size: 17px;
+}
+.ant-card.ant-card-bordered.ant-card-hoverable.css-dev-only-do-not-override-djtmh8 .ant-card-body{
+     height: 135px;
+     display: flex;
+     flex-direction: column;
+}
+.ant-card.ant-card-bordered.ant-card-hoverable.css-dev-only-do-not-override-djtmh8 .ant-card-body .ant-card-meta{
+     height: 55px;
+}
+.button-gr{
+     display: flex;
+     gap: 10px;
+     align-items: center;
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-primary.ant-btn-icon-only.ant-btn-dangerous.button-minus{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 23px;
+     height: 23px;
+}
+span.anticon.anticon-arrow-left svg{
+     width: 18px;
+     height: 18px;
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-default.button-total{
+     width: 150px;
+     height: 40px;
+}
+.list-header{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     font-size: 13px;
+     color: red;
+     margin-bottom: 10px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-space-gap-col-small{
+     column-gap: 50px;
+     font-size: 16px;
+}
+.ant-list-item{font-size: 18;}
+.ant-list-item-meta-title .title-food{
+     font-size: 13px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-list .ant-list-item .ant-list-item-meta{
+     align-items: center;
+}
+.group-title{
+     width: 233px;
+     display: flex;
+     justify-content: space-between;
+}
+.group-title .title-unit, .group-title .title-price, .group-title .title-sub{
+     flex: 1;
+}
+
+.group{
+     display: flex;
+     width: 233px;
+     justify-content: space-between;
+}
+.group .button-gr,.group .price-or, .group .sub-or{
+     flex: 1;
+}
+.group .button-gr, .group .price-or, .group .sub-or{
+     font-size: 14px;
+}
+.ant-drawer-content-wrapper {
+    width: 500px !important;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-btn.ant-btn-icon-only .anticon{
+     font-size: 13px;
+}
+.number , .price-or, .sub-or{
+     font-size: 13px;
+}
+div#rc-tabs-0-panel-1{
+     display: flex;
+     flex-direction: column;
+     row-gap: 40px;
+}
+.footer{
+     display: flex;
+     flex-direction: column;
+     /* align-items: center; */
+     justify-content: space-between;
+     gap: 20px;
+}
+.footer__gr{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.number-order{
+     font-size: 16px;
+     font-family: 'pnb';
+     color: red;
+}
+.grouporder{
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+.grouporder__top{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     font-family: 'pnb';
+     font-size: 14px;
+}
+.grouporder__top-title{
+     display: flex;
+     width: 233px;
+     justify-content: space-between;
+}
+.grouporder__top-title .title-uni, .grouporder__top-title .title-price, .grouporder__top-title .title-sub{
+     flex: 1;
+}
+
+.ant-list-item .group-or .quantity{
+          font-size: 14px;
+}
+.title-food-or{
+     width: 190px;
+     font-size: 14px !important;
+}
+.group-or{
+     display: flex;
+     width: 233px;
+     justify-content: space-between;
+}
+.group-or .quantity, .group-or .price-or, .group-or .sub-or{
+     flex: 1;
+}
+li.ant-list-item{
+     font-family: 'pnr';
+     font-size: 16px;
+}
+.ant-card-body{
+     font-family: 'pnr';
+}
+.ant-menu-title-content{
+     font-family: 'pnr';
+     font-size: 20px;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-menu-inline .ant-menu-item{
+     margin-block: 15px;
+}
+/* START BUTTON */
+.button-payment{
+     margin-top: 40px;
+}
+.button {
+     height: 50px;
+     width: 200px;
+     border: none;
+     border-radius: 10px;
+     cursor: pointer;
+     position: relative;
+     overflow: hidden;
+     transition: all 0.5s ease-in-out;
+}
+
+.type1::after {
+     content: "Thanh toán ngay";
+     height: 50px;
+     width: 200px;
+     background-color: #d46e6e;
+     color: #fff;
+     position: absolute;
+     top: 0%;
+     left: 0%;
+     transform: translateY(50px);
+     font-size: 1.2rem;
+     font-weight: 600;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: all 0.5s ease-in-out;
+}
+
+.type1::before {
+     content: attr(data-content);
+     height: 50px;
+     width: 200px;
+     background-color: #d46e6e;
+     color: #ffffff;
+     position: absolute;
+     top: 0%;
+     left: 0%;
+     transform: translateY(0px) scale(1.2);
+     font-size: 1.2rem;
+     font-weight: 600;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: all 0.5s ease-in-out;
+}
+
+.type1:hover::after {
+     transform: translateY(0) scale(1.2);
+}
+
+.type1:hover::before {
+     transform: translateY(-50px) scale(0) rotate(120deg);
+}
+/* END BOTTON */
+
+/* START CHEF */
+.ant-layout.layout__chef.css-dev-only-do-not-override-djtmh8{
+     height: 100%;
+}
+.ant-layout.ant-layout-has-sider.layout__chef1.css-dev-only-do-not-override-djtmh8{
+     height: 100%;
+}
+main.ant-layout-content.content__chef.css-dev-only-do-not-override-djtmh8{
+     padding: unset !important; 
+}
+header.ant-layout-header.header__chef.css-dev-only-do-not-override-djtmh8{
+     justify-content: end;
+}
+main.ant-layout-content.content__chef1.css-dev-only-do-not-override-djtmh8{
+     padding: 20px 50px 0 50px !important;
+}
+.contentorder .contentorder__tableInfo{
+     font-family: 'pnb';
+     font-size: 20px;
+     display: flex;
+     flex-direction: column;
+     row-gap: 20px;
+     margin-bottom: 40px;
+}
+.ant-list-item-meta-title .title__foodname{
+     font-family: 'pnr';
+     font-size: 17px;
+}
+.ant-list-item-meta.meta__chef{
+     flex: 3 !important;
+}
+.quantity{
+     display: flex;
+          flex: 1;
+}
+.grtitle__chef{
+     display: flex;
+     font-family: 'pnb';
+          font-size: 17px;
+}
+.grtitle__chef .grtitle__chef-name{
+     flex: 3;
+}
+.grtitle__chef .grtitle__chef-quantity {
+     flex: 1;
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-default.button-red{
+     color: #fff;
+          background: #fa4646;
+          box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-default.button-yellow {
+     color: #fff;
+     background: #d4da1e;
+     box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-default.button-green {
+     color: #fff;
+     background: #14c446;
+     box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}
+.ingredientlist{
+     position: absolute;
+     top: 13%;
+     right: 4%;
+}
+.listingre,.listmenu {
+     display: flex;
+     flex-direction: column;
+     row-gap: 30px;
+}
+.listingre-item{
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+     border: 0.5px solid;
+     padding: 10px;
+     font-size: 16px;
+}
+.listingre-id{
+     font-family: 'pnb';
+}
+.listingre-gr{
+     display: flex;
+     margin-top: 10px;
+}
+.listingre-gr .listingre-gr-name{
+     flex:  2;
+}
+.listingre-gr .listingre-gr-quantity{
+     flex: 1;
+}
+.listmenu-item{
+     border: 0.5px solid;
+     padding: 10px;
+     font-size: 16px;
+}
+li.item-ig{
+     list-style: inside;
+}
+
+/* END CHEF */
+
+.customer__input-name{
+     margin-bottom: 20px;
+}
+.customer{
+     display: flex;
+     flex-direction: column;
+     row-gap: 20px;
+}
+.customer__info{
+     display: flex;
+     flex-direction: column;
+     row-gap: 10px;
+     margin-bottom: 30px;
+}
+.customer__info .customer__info-title, .invoice .invoice__title, .invoice__method-title{
+     font-family: 'pnb';
+     font-size: 20px;
+}
+.customer__info .customer__info-name, .customer__info .customer__info-email{
+     font-family: 'pnr';
+     font-size: 17px;
+}
+.invoice{
+     display: flex;
+     flex-direction: column;
+     row-gap: 10px;
+}
+.invoice__col, .invoice__list{
+     display: flex;
+}
+.invoice__col .invoice__col-name, .invoice__list .invoice__list-name{
+     flex: 3 ;
+}
+.invoice__col .invoice__col-quantity, .invoice__list .invoice__list-quantity {
+     flex: 1;
+     width: 100px;
+}
+.invoice__col .invoice__col-price, .invoice__list .invoice__list-price{
+     flex: 1;
+}
+.invoice__col .invoice__col-name, .invoice__col .invoice__col-quantity ,.invoice__col .invoice__col-price{
+     font-family: 'pnb';
+     font-size: 15px;
+}
+.invoice__total{
+     margin-top: 20px;
+     font-size: 17px;
+     font-family: 'pnb';
+     color: red;
+}
+.invoice__method{
+     margin-top: 30px;
+     display: flex;
+     flex-direction: column;
+     row-gap: 20px;
+}
+.payment{
+     display: flex;
+     margin-top: 50px;
+}
+.invoice__list{
+     font-family: 'pnr';
+     font-size: 16px;
+}
+.invoice__grouplist{
+     display: flex;
+     flex-direction: column;
+     row-gap: 15px;
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-default{
+     margin: 0 auto;
+     background: green;
+     color: white;
+     cursor: pointer;
+}
+.customer__input-get{
+     margin-top: 20px;
+}
+.drainvoice__gr .drainvoice__gr-title{
+     font-family: 'pnb';
+     font-size: 21px;
+     text-align: center;
+}
+.drainvoice__gr .drainvoice__gr-customer{
+     font-family: 'pnr';
+     font-size: 17px;
+     margin-top: 20px;
+}
+.drainvoice__list{
+     display: flex;
+     flex-direction: column;
+     row-gap: 10px;
+     margin-top: 30px;
+}
+.drainvoice__list-title, .drainvoice__item-title{
+     display: flex;
+}
+.drainvoice__list-title .title, .drainvoice__item-title .title{
+     flex: 4;
+}
+.drainvoice__list-title .quantity, .drainvoice__item-title .quantity{
+     flex: 1;
+}
+.drainvoice__list-title .price, .drainvoice__item-title .price {
+     flex: 1;
+}
+.drainvoice__total{
+     margin-top: 20px;
+     font-family: 'pnb';
+     font-size: 18px;
+     color: red;
+     margin-bottom: 40px;
+}
+.drainvoice__button{
+     display: flex;
+}
+button.ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-primary.button_done{
+     margin: 0 auto;
+}
+.drainvoice__gr-date{
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-family: 'pnr';
+          font-size: 17px;
+}
+.drainvoice__gr-method{
+     font-family: 'pnr';
+          font-size: 17px;
+}
+.drainvoice__list-title{
+     font-family: 'pnb';
+          font-size: 17px;
+}
+/* START MANAGER */
+.managerpage{
+     height: 100%;
+}
+.ant-layout.ant-layout-has-sider.manager__layout.css-dev-only-do-not-override-djtmh8{
+     height: 100%;
+}
+.sub-content{
+     height: 100%;
+}
+.invoice__gr, .invoice__gr1{
+     display: flex;
+}
+.invoice__gr .invoice__gr-title, .invoice__gr1 .invoice__gr1-title{
+     flex: 3;
+}
+.invoice__gr .invoice__gr-quantity, .invoice__gr1 .invoice__gr1-quantity {
+     flex: 1;
+}
+.invoice__gr .invoice__gr-price, .invoice__gr1 .invoice__gr1-price {
+     flex: 2;
+}
+.invoice__gr-title , .invoice__gr-quantity,.invoice__gr-price{
+     font-family: 'pnb';
+     font-size: 17px;
+}
+.invoice__gr1-title{
+     margin-bottom: 10px;
+}
+.group-table{
+     display: flex;
+     flex-direction: column;
+     row-gap: 10px;
+}
+.ingredientlist-manager {
+     position: absolute;
+     top: 6%;
+     right: 4%;
+}
+/* END MANAGER */
